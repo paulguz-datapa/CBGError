@@ -1,0 +1,7 @@
+c:\workdir\Research\CBGError\obj\Debug\net8.0\CBGError.csproj.AssemblyReference.cache
+c:\workdir\Research\CBGError\obj\Debug\net8.0\CBGError.GeneratedMSBuildEditorConfig.editorconfig
+c:\workdir\Research\CBGError\obj\Debug\net8.0\CBGError.AssemblyInfoInputs.cache
+c:\workdir\Research\CBGError\obj\Debug\net8.0\CBGError.AssemblyInfo.cs
+c:\workdir\Research\CBGError\obj\Debug\net8.0\CBGError.csproj.CoreCompileInputs.cache
+c:\workdir\Research\CBGError\obj\Debug\net8.0\CBGError.MvcApplicationPartsAssemblyInfo.cs
+c:\workdir\Research\CBGError\obj\Debug\net8.0\CBGError.MvcApplicationPartsAssemblyInfo.cache

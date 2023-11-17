@@ -1,0 +1,6 @@
+@CBGError_HostAddress = http://localhost:5262
+
+GET {{CBGError_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
